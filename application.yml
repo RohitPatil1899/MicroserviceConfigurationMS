@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CONFIG-SERVER-MS-ROHIT
+    name: CONFIG-SERVER-MS
 eureka:
   instance:
     prefer-ip-address: true
